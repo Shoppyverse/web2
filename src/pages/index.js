@@ -35,10 +35,11 @@ class IndexPage extends React.Component {
               <div className="content">
               <div>
               <img src={logo} style={{height:350,width:450}}></img>
+              
               </div>
                 <h2 className="h1 milan" style={{fontstyle:'italic'}}>COMING SOON</h2>
                 {/* <Timer /> */}
-                <p>We will be launch soon, enter your email address and get our early notification.</p>
+                <p><h3>Follow Us</h3></p>
                 {/* <input name="email" type="text" placeholder="email address" />
                 <button className="button">Submit</button> */}
                 <div id="mc_embed_signup">
